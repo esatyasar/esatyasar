@@ -11,9 +11,6 @@
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esat-yasar/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:esatyasar91@gmail.com)
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lutfullahcelenk" alt="lutfullahcelenk" /> </p>
-
 ## 💻 Frontend
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="html" height="60"/> </a>
