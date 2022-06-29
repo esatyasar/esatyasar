@@ -1,6 +1,6 @@
 
 <img src="./esat.svg"> </img>
-
+<img align="right" src="https://media.giphy.com/media/LoBSGLlkRVWnd6SdxN/giphy.gif" width="160">
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | Vue )
 - 🌱 I’m currently learning backend development (Django)
 - 💬 Ask me about anything that you want to learn 
